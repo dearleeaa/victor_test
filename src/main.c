@@ -8,5 +8,7 @@ void main(void)
 	
 	int j = 1;
 	i++;j++;
+	
+	int cat;
 	return 0;
 }

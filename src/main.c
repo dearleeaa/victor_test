@@ -17,4 +17,4 @@ void main(void)
 	return 0;
 }
 
-void func1() -2
+void func1() -3

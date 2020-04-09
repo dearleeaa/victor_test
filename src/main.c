@@ -16,3 +16,5 @@ void main(void)
 	int cat;
 	return 0;
 }
+
+void func1()

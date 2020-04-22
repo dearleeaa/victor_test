@@ -18,3 +18,6 @@ void main(void)
 }
 
 void func1() -4
+
+AA -2
+AA -3
